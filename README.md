@@ -1,0 +1,1 @@
+# .net6-class-library-to-run-python-script
